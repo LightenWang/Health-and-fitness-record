@@ -21,3 +21,12 @@ Fitness exercise items:
 1. __push-up__: 100  
 2. __sit-up__:  62  
 3. __squat__:   30
+
+
+## 2017-11-1
+Fitness exercise items:
+1. __push-up__: 90  
+2. __sit-up__:  65  
+3. __squat__:   36
+
+
